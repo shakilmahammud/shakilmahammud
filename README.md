@@ -30,9 +30,16 @@ Python                   1 repos             ██░░░░░░░░░�
 PHP                      0 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 HTML&CSS                 8+ repos            ██░░░░░░░░░░░░░░░░░░░░░░░   15.5%
 
-
 ```
+```text
+```
+📊 **This Week I Spent My Time On:**
 
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <span>. ...........  30+ hrs 22 mins   ██████████████████▒░░░░░░   85.95 % </span></code>
+  <br/><br/>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <span> . ........... 15 hrs 15 mins   ██████████████████▒░░░░░░   70.95 % </span></code>
 <!--
 **shakilmahammud/shakilmahammud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
