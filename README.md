@@ -1,10 +1,12 @@
 <h2>👋  Hi there  !! I'm SHAKIL</h2>
+
 #### 📫 &nbsp; Reach me:
-[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/shakilmahammudofficial0/)
+
+[![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/shakilmahammudofficial0/)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@shakil.mit.bd)
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:shakil.mit.bd@gmail.com)
+[![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](https://medium.com/@shakil.mit.bd)
+[![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/1PcdEQ-O7wEOJxK4QwGr1z4IiOraML-Qz/view?usp=sharing)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/md-shakil-829802169/)
-[![CV URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](https://drive.google.com/file/d/1PcdEQ-O7wEOJxK4QwGr1z4IiOraML-Qz/view)
 
 <img width="550px" alt="Shakil Mahammud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true"/>
 </br>
