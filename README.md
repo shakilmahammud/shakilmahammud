@@ -10,12 +10,6 @@
 
 <img width="550px" alt="Shakil Mahammud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true"/>
 </br>
-<h3>- 🌱 I’m currently learning  Javascript & react Js & Node</h3>
-<h4> 🔭 I’m currently working on Programming Hero</h4>
-
-<img src="https://raw.githubusercontent.com/shakilmahammud/shakilmahammud/master/Night-Coding.gif">
-
-
 
 **Languages and Tools:**  
 
@@ -31,23 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-# Hi there 👋
 
-<div align="left">
-  <a href="https://twitter.com/omBratteng">
-    <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-<a href="https://app.daily.dev/shakil_"><img src="https://api.daily.dev/devcards/958782f1785b42f3a2ed7d3f6992b38c.png?r=r6s" width="400" alt="MD. SHAKIL's Dev Card"/></a>
- 
-</div>
 
 
