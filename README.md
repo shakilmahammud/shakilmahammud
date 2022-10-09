@@ -46,14 +46,8 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://api.daily.dev/get?r=shakil_" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
-    />
-  </a>
+<a href="https://app.daily.dev/shakil_"><img src="https://api.daily.dev/devcards/958782f1785b42f3a2ed7d3f6992b38c.png?r=r6s" width="400" alt="MD. SHAKIL's Dev Card"/></a>
+ 
 </div>
 
 
