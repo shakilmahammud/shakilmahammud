@@ -47,7 +47,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://api.daily.dev/get?r=shakil_" target="_blank">
     <img
       width="256"
       align="right"
@@ -56,14 +56,4 @@
   </a>
 </div>
 
-## I am Ole-Martin Bratteng
-
-- Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
-- Loves a freshly brewed cup of coffee
-
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
-
-[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng)
 
