@@ -8,8 +8,7 @@
 [![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/1PcdEQ-O7wEOJxK4QwGr1z4IiOraML-Qz/view?usp=sharing)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/md-shakil-829802169/)
 
-<img width="550px" alt="Shakil Mahammud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true"/>
-</br>
+
 
 **Languages and Tools:**  
 
