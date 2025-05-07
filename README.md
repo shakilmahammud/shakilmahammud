@@ -1,25 +1,33 @@
-# 👋 Hi, I'm Md Shakil
+# 👋 Hi, I'm SHAKIL
 
-💻 I'm a **Full-Stack Software Engineer** from **Bangladesh**, passionate about solving real-world problems through clean, scalable, and optimized code.
+💻 I'm a ** Software Engineer** from **Bangladesh**, passionate about building clean, scalable, and optimized solutions that solve real-world business problems.
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently working as a Software Engineer at **Creative Business Group**   
-- 🚀While I’ve shared a few personal and showcase projects here, most of my professional work has been done on 🚀Bitbucket🚀. I've worked on many real-world projects there, contributing to production-ready code and collaborating closely with development teams.
+- 🔭 Currently working as a **Software Engineer** at **Creative Business Group**
+- 👨‍💻 Over the years, I’ve worked across the full development lifecycle — from architecture and planning to deployment and maintenance
+- 🧠 Known for writing maintainable, well-documented, and performance-driven code
+- 🚀 While my **open-source and personal projects** live on GitHub, my **professional contributions** are primarily hosted on **[🚀Bitbucket🚀](https://bitbucket.org/)**  
+  I've collaborated on large-scale applications, contributed to production-level codebases, and worked in fast-paced, agile environments
 
-The projects on GitHub are a reflection of my 💡skills, clean code practices, structured architecture, and focus on performance optimization💡.
-Feel free to explore them, and if you'd like to learn more about my work or technical experience, don’t hesitate to reach out!
-
-  - Production-grade codebases  
-  - Cross-functional team collaboration  
-  - Real-world business solutions  
-- 📘 My GitHub projects highlight:
-  - 💡 Problem Solving & Optimization  
-  - 🧱 Code Structure & Clean Architecture  
-  - 🧪 Modular, Reusable Components  
 ---
+
+### 💼 What I Bring as a Software Engineer
+
+- ✅ **Strong understanding of system design**, architecture, and performance optimization
+- 🧩 **Modular, testable code** and scalable components
+- 🧪 Deep experience in **REST API** design, **clean architecture**, and **design patterns**
+- 🤝 Cross-functional collaboration with product, design, and QA teams
+- 🧭 Mentorship of junior developers and code reviews with an emphasis on quality and consistency
+- 🔁 CI/CD pipeline design and DevOps exposure using **Docker**, **Linux**, and **Git workflows**
+- 📈 Data-driven decision-making with a focus on maintainability and business impact
+
+---
+### 🌱 Constantly Learning & Growing
+
+I believe in lifelong learning and always strive to stay current with the latest trends and best practices.  
 
 ### 🛠️ Tech Stack
 
