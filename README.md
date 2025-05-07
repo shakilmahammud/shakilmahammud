@@ -58,5 +58,5 @@ Feel free to explore them, and if you'd like to learn more about my work or tech
 
 ### ❤️ Views and Followers
 
-![Profile Views](https://komarev.com/ghpvc/?username=shakilwebdev&style=flat-square)
-![Followers](https://img.shields.io/github/followers/shakilwebdev?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=shakilmahammud&style=flat-square)
+![Followers](https://img.shields.io/github/followers/shakilmahammud?label=Follow&style=social)
