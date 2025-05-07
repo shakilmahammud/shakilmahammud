@@ -64,8 +64,6 @@ I believe in lifelong learning and always strive to stay current with the latest
 ---
 
 ### 📊 GitHub Stats
-
-![Shakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilmahammud&layout=compact&theme=radical&hide_border=true)
 
 ---
