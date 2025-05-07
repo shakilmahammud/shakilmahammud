@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
 </p>
 
-# 👋 Hi, I'm SHAKIL
+<p align="center">
+  # 👋 Hi, I'm SHAKIL
+</p>
 
 💻 I'm a ** Software Engineer** from **Bangladesh**, passionate about building clean, scalable, and optimized solutions that solve real-world business problems.
 
