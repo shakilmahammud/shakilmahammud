@@ -51,8 +51,8 @@ Feel free to explore them, and if you'd like to learn more about my work or tech
 
 ### 📊 GitHub Stats
 
-![Shakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakilwebdev&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilwebdev&layout=compact&theme=radical&hide_border=true)
+![Shakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilmahammud&layout=compact&theme=radical&hide_border=true)
 
 ---
 
